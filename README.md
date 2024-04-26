@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Umara rana</h1>
-<h3 align="center">A passionate frontend developer from Pakistan.</h3>
+<h1 align="center">Hi, I'm Umara rana</h1>
+<h3 align="center">A passionate Flutter Developer from Pakistan.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umararana1122&label=Profile%20views&color=0e75b6&style=flat" alt="umararana1122" /> </p>
 
-- 🌱 I’m currently learning **Firebase authentication**
+- 🌱 I’m currently learning **....**
 
 - 💬 Ask me about **Flutter**
 
